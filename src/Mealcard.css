@@ -1,0 +1,27 @@
+.meal{
+    margin-top:5vh;
+    margin-left:5vw;
+    display:flex;
+    gap:50px;
+    flex-wrap:wrap;
+}
+.meal h2{
+    margin-left:35vw;
+}
+.meal-card img{
+    height:300px;
+    width:300px;
+    border-radius:10px;
+}
+.meal-card p{
+    margin-left:100px;
+}
+.meal-card button{
+    margin-left:30px;
+    background-color:#4CAF50;
+    color:white;
+    padding:10px 20px;
+    border:none;
+    border-radius:4px;
+    cursor:pointer;
+}
